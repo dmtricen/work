@@ -12,8 +12,6 @@ https://drive.google.com/drive/folders/1n48Bhq9TUnnSCSu0JeH1byB4mHSyjdTZ
 
 [[Veeder-Root TLS-450+.pdf]]
 
-[[Troubleshooting/Leak Detection/Veeder-Root/PLLD Setup on a TLS-450PLUS\|PLLD Setup on a TLS-450PLUS]]
-
 [[CSLD Troubleshooting .pdf]]
 
 ---

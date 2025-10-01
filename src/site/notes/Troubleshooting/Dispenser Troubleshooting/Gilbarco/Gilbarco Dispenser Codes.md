@@ -2,7 +2,12 @@
 {"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/gilbarco/gilbarco-dispenser-codes/","tags":["Keep/Color/Yellow","Keep/Attachment","Keep/Label/Procedures-and-Paperwork"]}
 ---
 
-Test 
+---
+dg-publish: true
+
+---
+
+
 Street address
 Store number
 

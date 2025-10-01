@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/troubleshooting/point-of-sales/pinpads/mx-900-pinpad/"}
 ---
 
+*A pdf related to this entry is available.  Refer to [[Troubleshooting/Manuals and Guides\|Manuals and Guides]] for a link.*
+
 [[MX900 Pinpad.pdf]]
 
 This thing is older and temperamental, so these are the methods I used to install these pin pads in the past.  You may need to call Verifone if it goes pear shaped.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/procedures/site-specific/7-11/7-eleven-equipment-and-proceedures/","tags":["Keep/Color/Purple","Keep/Label/Troubleshooting-Guide","Keep/Label/7-11","Keep/Label/Procedures-and-Paperwork"]}
+{"dg-publish":true,"permalink":"/troubleshooting/procedures/site-specific/7-11/7-eleven-equipment-and-proceedures/"}
 ---
 
 

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/gilbarco/flexpay-iv/dcm-2-and-ssom/"}
 ---
 
+*A pdf related to this entry is available.  Refer to [[Troubleshooting/Manuals and Guides\|Manuals and Guides]] for a link.*
+
 [[SSOM and DCM2.pdf]]
 
 Make sure your jumpers are set correctly.  Smart crind and VLAN should be off.  

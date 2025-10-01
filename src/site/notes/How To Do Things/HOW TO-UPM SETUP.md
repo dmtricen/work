@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-do-things/how-to-upm-setup/","tags":["Keep/Color/Purple","Keep/Attachment","Keep/Label/Troubleshooting-Guide"]}
+{"dg-publish":true,"permalink":"/how-to-do-things/how-to-upm-setup/"}
 ---
 
+*A pdf related to this entry is available.  Refer to [[Troubleshooting/Manuals and Guides\|Manuals and Guides]] for a link.*
 
-Initial setup for UPMs
+## Initial setup for UPMs
 
 ————————————————————————
 
@@ -14,7 +15,7 @@ Initial setup for UPMs
 
 ---
 
-# Steps to Replacing a UPM
+## Steps to Replacing a UPM
 
 1. If the old UPM will let you into setup, print out a setup config
 2. Remove the old UPM.  I recommend turning it over and placing it beside the new UPM and taking a picture of both serial numbers.  It’ll help later. 
@@ -26,7 +27,7 @@ Initial setup for UPMs
 Instructions diverge here depending on what hardware you have.  
 
 ---
-# …If you have an Omnia board
+## …If you have an Omnia board
 1. ****Change device to Omnia
 2. Restart the dispenser and reenter setup
 3. Enter secure menu with option 8
@@ -34,7 +35,7 @@ Instructions diverge here depending on what hardware you have.
 
 
 ---
-# …if you have an SSOM on a CCP
+## …if you have an SSOM on a CCP
 1. *Change device settings option 2 
 2. *Change ip address and ensure the mask and gateway match other dispensers
 3. Back to main menu
@@ -43,7 +44,7 @@ Instructions diverge here depending on what hardware you have.
 
 
 ---
-# Installing Encryption (RKLs)
+## Installing Encryption (RKLs)
 1. Make sure your laptop has internet access
 2. Connect to the UPM with the UPM Maintenance tool
 3. Click RKL
@@ -58,8 +59,6 @@ Instructions diverge here depending on what hardware you have.
 
 
 ---
-
-
 
 
 ![CertsFigure1.jpeg](/img/user/Assets/Images/CertsFigure1.jpeg)

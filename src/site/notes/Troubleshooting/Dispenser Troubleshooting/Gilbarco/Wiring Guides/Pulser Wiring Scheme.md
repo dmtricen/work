@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/gilbarco/wiring-guides/pulser-wiring-scheme/","tags":["Keep/Color/Purple","Keep/Attachment","Keep/Label/Troubleshooting-Guide"]}
+{"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/gilbarco/wiring-guides/pulser-wiring-scheme/"}
 ---
 
 

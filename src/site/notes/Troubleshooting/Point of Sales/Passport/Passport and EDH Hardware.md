@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/point-of-sales/passport/passport-and-edh-hardware/","tags":["Keep/Color/Purple","Keep/Attachment","Keep/Label/Troubleshooting-Guide"]}
+{"dg-publish":true,"permalink":"/troubleshooting/point-of-sales/passport/passport-and-edh-hardware/"}
 ---
 
 

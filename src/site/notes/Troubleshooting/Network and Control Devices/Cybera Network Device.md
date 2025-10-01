@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/network-and-control-devices/cybera-network-device/","tags":["Keep/Color/Purple","Keep/Attachment","Keep/Label/Troubleshooting-Guide"]}
+{"dg-publish":true,"permalink":"/troubleshooting/network-and-control-devices/cybera-network-device/"}
 ---
 
 

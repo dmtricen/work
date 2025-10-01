@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/st-ps-and-sumps/stp-relay/dmex-isolation-relays/","tags":["Keep/Color/Purple","Keep/Attachment","Keep/Label/Troubleshooting-Guide"]}
+{"dg-publish":true,"permalink":"/troubleshooting/st-ps-and-sumps/stp-relay/dmex-isolation-relays/"}
 ---
 
 

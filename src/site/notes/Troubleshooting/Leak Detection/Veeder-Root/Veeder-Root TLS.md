@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/leak-detection/veeder-root/veeder-root-tls/","tags":["Keep/Color/Purple","Keep/Label/Troubleshooting-Guide"]}
+{"dg-publish":true,"permalink":"/troubleshooting/leak-detection/veeder-root/veeder-root-tls/"}
 ---
+
+*A pdf related to this entry is available.  Refer to [[Troubleshooting/Manuals and Guides\|Manuals and Guides]] for a link.*
 
 [[Veeder-Root TLS3XX.pdf]]
 [[Veeder-Root TLS-450+.pdf]]

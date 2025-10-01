@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/crind/avalan/"}
 ---
 
-![AvalanWirelessAP.jpeg](/img/user/Assets/Images/AvalanWirelessAP.jpeg)
+*A pdf related to this entry is available.  Refer to [[Troubleshooting/Manuals and Guides\|Manuals and Guides]] for a link.*
 
+![AvalanWirelessAP.jpeg](/img/user/Assets/Images/AvalanWirelessAP.jpeg)
 ---
 [[Avalan Manual.pdf]]
 

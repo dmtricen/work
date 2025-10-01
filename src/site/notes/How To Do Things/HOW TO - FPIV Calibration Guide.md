@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/how-to-do-things/how-to-fpiv-calibration-guide/"}
 ---
 
-
----
+*A pdf related to this entry is available.  Refer to [[Troubleshooting/Manuals and Guides\|Manuals and Guides]] for a link.*
 
 [[Calibration Guide.pdf]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/gilbarco/wiring-guides/master-satellite-wiring/","tags":["Keep/Color/Purple","Keep/Attachment","Keep/Label/Wiring-Guide"]}
+{"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/gilbarco/wiring-guides/master-satellite-wiring/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/procedures/site-specific/7-11/filter-proceedures/","tags":["Keep/Color/Yellow","Keep/Label/Procedures-and-Paperwork"]}
+{"dg-publish":true,"permalink":"/troubleshooting/procedures/site-specific/7-11/filter-proceedures/"}
 ---
 
 

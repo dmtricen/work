@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/bennett/bennett-3000-legacy-dispensers/"}
 ---
 
-![Bennett Pump1.jpeg](/img/user/Assets/Images/Bennett%20Pump1.jpeg)
-[[Bennett Legacy 3000 Manual.pdf]]
+*A pdf related to this entry is available.  Refer to [[Troubleshooting/Manuals and Guides\|Manuals and Guides]] for a link.*
+
+![Bennett Pump1.jpeg](/img/user/Assets/Images/Bennett%20Pump1.jpeg)[[Bennett Legacy 3000 Manual.pdf]]
 
 ---
 

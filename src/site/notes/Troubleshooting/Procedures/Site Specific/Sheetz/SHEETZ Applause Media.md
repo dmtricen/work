@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/procedures/site-specific/sheetz/sheetz-applause-media/","tags":["Keep/Color/Purple","Keep/Attachment","Keep/Label/Troubleshooting-Guide","Keep/Label/Sheetz"]}
+{"dg-publish":true,"permalink":"/troubleshooting/procedures/site-specific/sheetz/sheetz-applause-media/"}
 ---
 
 

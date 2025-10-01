@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/suction-pumps/suction-pump-troubleshooting/"}
 ---
 
+*A pdf related to this entry is available.  Refer to [[Troubleshooting/Manuals and Guides\|Manuals and Guides]] for a link.*
+
 [[Suction Pumps.pdf]]
 
 # Air coming out of the air eliminator

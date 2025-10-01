@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/procedures/site-specific/circle-k/rkl-setup-info/","tags":["Keep/Color/Pink","Keep/Attachment","Keep/Label/Circle-K"]}
+{"dg-publish":true,"permalink":"/troubleshooting/procedures/site-specific/circle-k/rkl-setup-info/"}
 ---
 
 

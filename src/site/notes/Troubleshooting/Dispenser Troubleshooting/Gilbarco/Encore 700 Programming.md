@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/gilbarco/encore-700-programming/","tags":["Keep/Color/Purple","Keep/Attachment","Keep/Label/Troubleshooting-Guide"]}
+{"dg-publish":true,"permalink":"/troubleshooting/dispenser-troubleshooting/gilbarco/encore-700-programming/"}
 ---
 
-
----
+*A pdf related to this entry is available.  Refer to [[Troubleshooting/Manuals and Guides\|Manuals and Guides]] for a link.*
 
 [[encore 500&700 pump programming.pdf]]
 

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/network-and-control-devices/applause-media/","tags":["Keep/Color/Purple","Keep/Attachment","Keep/Label/Troubleshooting-Guide"]}
+{"dg-publish":true,"permalink":"/troubleshooting/network-and-control-devices/applause-media/"}
 ---
 
+*A pdf related to this entry is available.  Refer to [[Troubleshooting/Manuals and Guides\|Manuals and Guides]] for a link.*
 
 [[ApplauseMediaServerManuel.pdf]]
 

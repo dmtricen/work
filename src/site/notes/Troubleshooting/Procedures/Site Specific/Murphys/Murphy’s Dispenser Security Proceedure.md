@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/procedures/site-specific/murphys/murphy-s-dispenser-security-proceedure/","tags":["Keep/Color/Yellow","Keep/Label/Procedures-and-Paperwork"]}
+{"dg-publish":true,"permalink":"/troubleshooting/procedures/site-specific/murphys/murphy-s-dispenser-security-proceedure/"}
 ---
 
 

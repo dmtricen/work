@@ -12,13 +12,13 @@ It is made up of three components (only 2 on the newest version).
 
 ### Field Wiring Board
 
-![IMG_2668.jpeg](/img/user/Assets/IMG_2668.jpeg)
+![BRCM2-2 1.jpeg](/img/user/Assets/Images/BRCM2-2%201.jpeg)
 
 This takes the wiring from the dispensers and splits the signal into pump and crind signals.  The crind is sent to the front lid of the BRCM2 to head out on the network and the pump is wired over the top of the back plate to the DBox board. 
 
 ### DBox Board
 
-![IMG_2669.jpeg](/img/user/Assets/IMG_2669.jpeg)
+![BRCM2-3.jpeg](/img/user/Assets/Images/BRCM2-3.jpeg)
 
 Sends pump signals to the FCI for processing.  
 
@@ -36,5 +36,5 @@ Only use bank of ports
 
 ![BRCM2.jpg](/img/user/Assets/Images/BRCM2.jpg)
 
-![BRCM2-2.jpeg](/img/user/Assets/Images/BRCM2-2.jpeg)
+![Assets/Images/BRCM2-2.jpeg](/img/user/Assets/Images/BRCM2-2.jpeg)
 

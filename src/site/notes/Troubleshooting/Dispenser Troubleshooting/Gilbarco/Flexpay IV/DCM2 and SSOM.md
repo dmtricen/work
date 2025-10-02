@@ -6,6 +6,31 @@
 
 [[SSOM and DCM2.pdf]]
 
+![image.jpg](/img/user/Assets/image.jpg)
+
+Above is a DCM 2.2.  It is made up of a CCP board with 2 GSOM attached and an SSOM (attached to the back of the board between it and the back plate).  This functions as the CRIND logic board.  
+
+---
+CCP Board
+
+![IMG_2698.jpeg](/img/user/Assets/IMG_2698.jpeg)
+
+
+---
+GSOM
+
+![IMG_2700.jpeg](/img/user/Assets/IMG_2700.jpeg)
+
+
+---
+SSOM
+
+![IMG_2699.jpeg](/img/user/Assets/IMG_2699.jpeg)
+
+
+---
+
+
 Make sure your jumpers are set correctly.  Smart crind and VLAN should be off.  
 
 Updating the SSOM may require migration to upgrade fully.  

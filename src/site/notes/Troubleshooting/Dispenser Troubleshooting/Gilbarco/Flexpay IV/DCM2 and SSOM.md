@@ -6,26 +6,26 @@
 
 [[SSOM and DCM2.pdf]]
 
-![image.jpg](/img/user/Assets/image.jpg)
+![DCM2-1.jpg](/img/user/Assets/Images/DCM2-1.jpg)
 
 Above is a DCM 2.2.  It is made up of a CCP board with 2 GSOM attached and an SSOM (attached to the back of the board between it and the back plate).  This functions as the CRIND logic board.  
 
 ---
 CCP Board
 
-![IMG_2698.jpeg](/img/user/Assets/IMG_2698.jpeg)
+![DCM2-2.jpeg](/img/user/Assets/Images/DCM2-2.jpeg)
 
 
 ---
 GSOM
 
-![IMG_2700.jpeg](/img/user/Assets/IMG_2700.jpeg)
+![DCM2-3.jpeg](/img/user/Assets/Images/DCM2-3.jpeg)
 
 
 ---
 SSOM
 
-![IMG_2699.jpeg](/img/user/Assets/IMG_2699.jpeg)
+![DCM2-4.jpeg](/img/user/Assets/Images/DCM2-4.jpeg)
 
 
 ---
